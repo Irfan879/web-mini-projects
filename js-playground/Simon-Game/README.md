@@ -5,12 +5,12 @@ A classic memory game where you repeat an ever-growing sequence of colored light
 
 
 ## How to Play
-Watch the sequence of flashing colors carefully
-Repeat the sequence by clicking the buttons in the correct order
-Each round adds one more color to the sequence
-One wrong move and the game resets — try to beat your high score!
+- Watch the sequence of flashing colors carefully
+- Repeat the sequence by clicking the buttons in the correct order
+- Each round adds one more color to the sequence
+- One wrong move and the game resets — try to beat your high score!
 
 ## Built With
-. HTML
-. CSS
-. JavaScript
+- HTML
+- CSS
+- JavaScript
