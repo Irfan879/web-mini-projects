@@ -8,7 +8,6 @@ front-end skill — great for learning and practice.
 These projects are built to:
 - Practice and improve front-end development skills
 - Explore real-world UI designs and layouts
-- Build a strong portfolio of web projects
 
 
 ## 🛠️ Technologies Used
